@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahima Hovale</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align ="right" alt="Coding"  src="public/flower.gif"> 
+<p align="center"><img alt="Coding" src="public/flower.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahimaHovale&label=Profile%20views&color=0e75b6&style=flat" alt="Mahima" /> </p>
 
 
